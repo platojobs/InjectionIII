@@ -8,9 +8,7 @@
 
 #### 1.安装InjectionIII
 
-[InjectionIII下载]
-
-(https://itunes.apple.com/cn/app/injectioniii/id1380446739?mt=12)
+[InjectionIII下载](https://itunes.apple.com/cn/app/injectioniii/id1380446739?mt=12)
 
 ![图片地址](https://github.com/PlatoJobs/InjectionIII/blob/master/InjectionIII.png)
 
