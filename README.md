@@ -63,7 +63,7 @@ redBtn.backgroundColor = [UIColor yellowColor];
 -(void)injected{
 NSLog(@"I've been injected: %@", self);
 NSLog(@"这里调用修改页面布局的代码，如这里调用了viewDidLoad方法");
-[self viewDidLoad];
+[self viewDidLoad]; //当然也可以直接 redBtn.backgroundColor = [UIColor yellowColor];  redBtn改成全局的。
 }
 ```
 上述代码：//执行快捷键：`COMMAND + S`就可看到`[self viewDidLoad]`此方法的效果了。
