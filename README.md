@@ -8,12 +8,12 @@
 ---
 
 1.安装InjectionIII
-
-[InjectionIII](https://itunes.apple.com/cn/app/injectioniii/id1380446739?mt=12)
+[InjectionIII下载](https://itunes.apple.com/cn/app/injectioniii/id1380446739?mt=12)
+![图片地址](https://github.com/PlatoJobs/InjectionIII/blob/master/InjectionIII.png)
 
 2.打开Mac APP injectionIII, 点击Mac 桌面的injectionIII 图标-> Open Recent -> 选择你的项目 ，最后再选择FileWatcher（有对号即可）；
 
-![图片地址](https://github.com/PlatoJobs/InjectionIII/blob/master/InjectionIII.png)
+![FileWatcher](https://github.com/PlatoJobs/InjectionIII/blob/master/file_watcher.png)
 
 3.随手掏使用教程
 + 在工程里写入一下代码
